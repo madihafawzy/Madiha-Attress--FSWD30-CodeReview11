@@ -1,0 +1,19 @@
+/* style.css */
+body{
+	background-image: url('img/icon.png');
+	background-size: 100%;
+}
+
+/* TABLE_______________________________________ */
+table{
+	margin-top: 20px;
+}
+th{
+	background-color:rgb(230, 242, 255); 
+}
+td{
+	background-color: rgb(230, 242, 255);
+}
+
+
+
